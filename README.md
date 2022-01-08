@@ -8,7 +8,6 @@ The upstream development for `slock` can be found [here](https://git.suckless.or
 
 # Patches
 
-- [media](https://tools.suckless.org/slock/patches/mediakeys/)
 - [xresources](https://tools.suckless.org/slock/patches/xresources/)
 
 # Arch Linux Install
