@@ -29,7 +29,7 @@ sudo pacman -U *.pkg.tar.zst
 Download the source code from this repository:
 
 ```
-git clone https://gitlab.com/Hooregi/slock.git
+git clone https://github.com/hooregi/slock.git
 cd slock
 sudo make clean install
 ```
