@@ -1,6 +1,6 @@
 # Simple X Locker
 
-`slock` is the simplest X screen locker. It is stable and quite a lot of people in the suckless community are using it every day when they are out with friends or fetching some food from the local pub.
+`slock` is the simple screen locker utility for X.
 
 ## Upstream
 
